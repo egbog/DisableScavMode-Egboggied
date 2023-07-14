@@ -2,8 +2,8 @@
 
   <PropertyGroup>
 	<TargetFramework>net472</TargetFramework>
-    <AssemblyName>SIT.Core</AssemblyName>
-    <Description>Stay in Tarkov plugin for Escape From Tarkov</Description>
+    <AssemblyName>DisableScavMode</AssemblyName>
+    <Description>DisableScavMode</Description>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
