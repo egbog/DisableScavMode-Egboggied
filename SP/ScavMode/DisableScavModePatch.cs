@@ -26,7 +26,7 @@ namespace SIT.Core.SP.ScavMode
             DefaultUIButton ____pmcBigButton)
         {
             ____savagesBigButton.transform.parent.gameObject.SetActive(false);
-            ____pmcBigButton.transform.parent.transform.localPosition = new Vector3(-220, 500, 0);
+            ____pmcBigButton.transform.parent.transform.localPosition = new Vector3(-220, 520, 0);
             RectTransform tempRectTransform = ____pmcBigButton.GetComponent<RectTransform>();
             tempRectTransform.anchoredPosition = new Vector2(-220, 0);
             tempRectTransform.offsetMax = new Vector2(-220, 0);
