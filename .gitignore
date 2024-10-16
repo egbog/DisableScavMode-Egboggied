@@ -3,7 +3,7 @@ BepInEx/
 .vscode/
 obj/
 bin/
-*.zip/
+*.zip
 *.pdb
 *.sln
 *.csproj
